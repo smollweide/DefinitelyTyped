@@ -6,7 +6,7 @@
 
 /// <reference types="jquery"/>
 
-interface JQuerySlickOptions {
+export interface JQuerySlickOptions {
 
     /**
      * Enables tabbing and arrow key navigation
